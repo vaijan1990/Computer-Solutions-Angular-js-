@@ -1,0 +1,26 @@
+[{
+  "id": 1,
+  "name": "Stockholm",
+  "street_address": "Vasagathan 126",
+  "city": "solna",
+  "zip" :"1235",
+  "phone" :"20589964"
+},
+{
+  "id": 2,
+  "name": "Gothenberg",
+  "street_address": "Kiingata 568",
+  "city": "heirn",
+  "zip" :"8825",
+  "phone" :"48963334"
+
+},
+{
+  "id": 3,
+  "name": "Malmo",
+  "street_address": "Vkilingata 47",
+  "city": "mokkk",
+  "zip" :"45555",
+  "phone" :"20588999"
+}
+]

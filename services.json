@@ -1,0 +1,16 @@
+[{
+  "id": 1,
+  "name": "Hardware Repair",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempor urna nec quam condimentum, finibus malesuada velit suscipit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mauris sapien, consequat nec dictum non, venenatis non ipsum"
+  
+
+}, {
+  "id": 2,
+  "name": "Virus Removal",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempor urna nec quam condimentum, finibus malesuada velit suscipit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mauris sapien, consequat nec dictum non, venenatis non ipsum"
+
+}, {
+  "id": 3,
+  "name": "System Tunning",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempor urna nec quam condimentum, finibus malesuada velit suscipit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mauris sapien, consequat nec dictum non, venenatis non ipsum"
+}]
